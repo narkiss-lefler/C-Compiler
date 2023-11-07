@@ -1,0 +1,240 @@
+	mov  454  , hgf
+mov    @r5	, kJ
+mov  asd ,dbh
+lr 1fL
+	 clr   A1fL
+  clr S#2
+sub  454 ,
+sub    @r5	 
+sub  asd ,
+
+cmp    abbd  , @r2
+cmp  454 ,65
+ clr @122
+ clr 122
+ clr
+ inc @r7
+		 inc HL
+ inc NALk
+ inc 1fL
+	 inc   b44fL
+ mov  414 ,	@r1
+
+sub  414 	,@r1
+sub  @r4  ,@r7
+sub    abbd  , @r2
+  sub
+
+add
+ add  454 ,
+add   , @r5	 
+
+mov  l4&14 ,	@r12
+mov  asd ,dbh, 567
+
+add  454 ,hgf
+add    @r5,	 kjh
+add  asd ,dbh
+  add  414 ,	@r1
+
+add    1abbd ,  @r2
+add  l4&14 	,@r12
+add  asd ,dbh ,567
+
+sub  454, hgf
+sub    @r5 ,	 kph
+  sub  asd, dbh
+
+cmp    @r5,	 44
+cmp  asd ,21
+mov  @r4 , @r7
+  mov    abbd  , @r2
+mov
+
+	cmp  12 , @r7
+cmp    333  , @r2
+cmp
+cmp  454 ,
+cmp    @r5,	 
+c
+cmp  asd dbh, 567
+cmp 34%r23, hujf
+
+lea dsf , @r6
+lea wefgr , hjgg
+lea
+		bb: 	 .string   "  jhs "bn
+	abc: .string "nvbhv nf 77y7 "  
+	 	 .string   "  jhsd872 $%^FG EWF@# dfE 	Jed. "
+  ab: 	 .string   a"  jhs "
+lea @r1 , k1jgg
+		lea @r12  ,kkjgg
+mp  asd ,
+cmp  414 ,	@r12
+cmp  @r43 , @r7
+cmp    1abbd   @r2
+cmp  l4&14 ,	@r12
+lea rghfh , t1j*gg
+lea bfhh , @r16
+lea 2fhh,  bfhh
+mov  ,454 
+ mov    @r5	 
+add  @r4 , @r7
+add    abbd,   @r2
+cmp 342 123,
+cmp  414 ,	@r1
+	aa: 	 .string   "  jhsd872 $%^FG EWF@# dfE 	Jed. "
+	abc: .string "nvwrfsdnf 77y7 "  
+
+   	.string   a"  jhs "
+	 	.string "nvwrfnf 77y7 "  
+		bn: 	 .string   "  jhs "bn
+	 	 .string   "  jhs nbv
+	bcc: 	 .string   "  jhr
+	 .string "nvbhv nf 77y7 " 
+		 .string   rr"  jhr
+sub  414 ,	@r12
+sub  @r43 , @r7
+sub    1abbd  , @r2
+	nmm:   rts
+
+	rts ss
+		stop    fhjf. F
+    Njk: jr stop
+  Bhp: cmp  asd ,21
+  sub  l4&14 ,	@r12
+sub  asd ,dbh, 567
+
+cmp  454,, hgf
+
+df: stop
+		stop
+	nmvf:		rts
+
+Gh: cmp 342 ,123
+nghh: cmp  414 ,	@r1
+ xx: cmp    @r5,	 44
+
+
+lea f$hh , bfhh
+lea hh , bfhh
+	hjkf 
+	df: rts
+			stop   
+	rts 
+	nnn:   stop
+
+
+  aa:  cmp  454 ,65
+ xx: cmp    @r5,	 44
+	cmp  12 , @r7
+cmp    333  , @r2
+ Gh: cmp
+ Hug: cmp  454 ,
+
+lea feehh,  1fhh
+cmp    @r5,	 kjh
+cmp  asd ,dbh
+cmp  414 ,	@r1,
+	 not   A1L
+  not S#2
+ not @122
+ not 122
+  cmp  @r4 , @r7
+	aa: 	 .string   "  jhs "
+
+	aa: cmp  454, hgf
+  bb: cmp    @r5,	 kjh
+  Bhp: cmp  asd ,deh
+	str 		
+nm: bn rts	
+	lea feehh , r1f(hh
+lea 123 ,
+lea feehh , 332
+lea 1233 ,gfh 
+not @r3
+		 not NAL
+ not NAL
+ not 1AL
+
+ not
+ clr @r4
+		 clr HHL
+ clr NAL
+ c
+  inc S#2 lll
+ inc @12
+ dec @12
+ dec 322 klk
+ dec
+ jmp @r7
+		 jmp HL
+ jmp NALk
+ jmp 1fL
+	 jmp   rfL @1
+  jmp S#2
+ jmp @12
+ inc 322
+ inc
+ dec @r7
+		 dec HL
+ dec NALk
+ dec 1fL
+	 dec   r44fL
+  dec S#2
+
+ jmp 322
+ jmp
+ bne @r2
+		 bne HjkjL
+ bne NALk
+ bne 1fL
+	 bne   efL @r1
+  bne S#2
+ prn NALk
+ prn 1fL
+	 prn   efvffL @1
+  prn S((2
+	.data ,-9,+11,5,3
+ .data -9,11,-5,3,
+ bne @12
+ bne 322
+ bne
+ red @r1
+		 red HjfdsjL
+ red NALk
+ red 1fL
+	 red   effffL @r1
+  red S((2
+ red @15
+ red 222
+ red
+ prn @r1
+		 prn HjfnbbdsjL
+
+	 .data	  -9,,11,5a,3,
+		   .data    -9,11,+5,+3,123,4,-8
+ prn @15
+ prn 222
+ pan
+jsr @r5
+		 jsr HjfjhbdsjL
+ jsr NALk
+add  asd 
+add  414 ,	@r12
+add  @r43 , @r7
+mov  asd ,
+mov  414 ,	@r12
+mov  @r43 , @r7
+mov    1abbd  , @r2
+ jsr 1fL
+	 jsr   efflfL @4
+  jsr S(*2
+ jsr @15
+ jsr 211
+ jsr
+   .data    -9,11,5a,3
+	  
+  .data    -9,15,+5,+35,153,45,-85
+	  .data    -9,11,+5
+
