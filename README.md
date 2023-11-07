@@ -11,3 +11,23 @@ The assembler works in three main stages:
    
 These stages form the core algorithm of the assembler.
 
+Pre-Processing:                       
+The pre-assembler reads the source file line by line and identifies macro definitions. If a macro is identified, the lines of the macro are added to a macro table and replaced in the source file.
+
+First Pass:                       
+The first pass identifies symbols (labels) and assigns them numerical values representing their corresponding memory addresses.
+
+Second Pass:                         
+In the second pass, the assembler generates the final machine code, replacing operation names with their binary equivalents and symbol names with their assigned memory locations.
+
+Prerequisites               
+In order to run the program, ensure that you have the following prerequisites installed:
+- GCC compiler
+- Ubuntu system (but others will also work)
+
+Installation                  
+Clone the repository
+Change to the project directory: cd C-Compiler      
+Run Makefile to compile the program
+
+
