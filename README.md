@@ -26,8 +26,18 @@ In order to run the program, ensure that you have the following prerequisites in
 - Ubuntu system (but others will also work)
 
 Installation                  
-Clone the repository
+Clone the repository                               
 Change to the project directory: cd C-Compiler      
 Run Makefile to compile the program
 
+Run the compiled program using the following command: ./assembler file_name_1 ... file_name_N                                   
+This will output machine code generated from the provided assembly file.
+
+Testing
+
+Several assembly language input files are provided to demonstrate the use of various operations and data types, as well as the assembler's handling of errors.
+
+Documentation
+
+Each function in the source code is accompanied by concise, clear documentation in the form of header comments, explaining its purpose and usage. Important variables are also explained. Detailed comments are present throughout the code for better understanding.
 
